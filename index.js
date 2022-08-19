@@ -1,1 +1,3 @@
-console.log('测试测试')
+export const run = () => {
+  console.log('测试测试测试')
+}
