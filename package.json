@@ -1,5 +1,5 @@
 {
-  "name": "jack-test",
+  "name": "jack-test-1",
   "version": "1.0.0",
   "description": "testing npm publish",
   "main": "index.js",
@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chenjacky131/Jack-Test.git"
+  }  
 }
