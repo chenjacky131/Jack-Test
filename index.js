@@ -17,7 +17,7 @@
   var MyLeafletPlugin = {};
   // implement your plugin
   MyLeafletPlugin.run = () => {
-    console.log('run run run ')
+    console.log(L, 'run run run ')
   }
   // return your plugin when you are done
   return MyLeafletPlugin;
